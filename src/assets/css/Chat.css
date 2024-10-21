@@ -1,0 +1,11 @@
+.chat-box {
+    border: 1px solid #765397;
+    padding: 10px;
+    height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+.chat-box div {
+    margin-bottom: 5px;
+}
